@@ -6,3 +6,38 @@ border-radius:5px;
 text-decoration:none;
 }
 
+.table1{
+    border:2px solid black;
+    width:600px;
+    height:500px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.2);
+}
+
+.r11 th{
+    background-color:#6a1b9a;
+    color:white;
+    padding:12px; 
+    border:1px solid #ddd;
+
+}
+.r22 td {
+     background-color: #e1f5fe;
+        text-align: center;
+        padding: 10px;
+        border: 1px solid #ddd;
+}
+
+.r33 td{
+     background-color: #ffffff;
+        text-align: center;
+        padding: 10px;
+        border: 1px solid #ddd;
+}
+
+.r44{
+    background-color: #e1f5fe;
+    text-align: center;
+     padding: 10px;
+     border: 1px solid #ddd;
+}
+
